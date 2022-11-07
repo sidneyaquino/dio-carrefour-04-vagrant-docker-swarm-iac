@@ -19,6 +19,7 @@ In this Project Challenge create a local Docker Swarm Cluster using virtual mach
 .
 
 **DIO - Carrefour Bank - Cloud DevOps Experience**
-***Date***: from 20/Oct until 04/Dec/2022 ***Level***: Intermediate ***Hours***: 101
+
+Date: from 20/Oct until 04/Dec/2022 - Level: Intermediate - Hours: 101
 
 The [Carrefour Bank - Cloud DevOps Experience bootcamp](https://web.dio.me/track/cloud-devops-experience-banco-carrefour) is a program came with an unprecedented 101-hour track for professionals who already work in the area and want to evolve or are starting to study about DevOps. With a complete training, the complete bootcamp about Linux, Docker, Kubernetes and Google Cloud Platform.
